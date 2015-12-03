@@ -8,6 +8,9 @@ namespace Apollo.Security.System.Core.Interface
     {
         Lock GetLockByRoomNumber(int roomNumber);
         List<Lock> GetAllLocks();
+        void AddLock(int roomNumber);
+        void AddMemberToLock(Member member, int roomNumber);
+        void RemoveLock(int roomNumber);
         Member GetMember(int memberId);
         List<Member> GetAllMember(int memberId);
         List<Log> GetAllLogs();
