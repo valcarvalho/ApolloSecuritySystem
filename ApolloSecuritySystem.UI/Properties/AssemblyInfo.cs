@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Apollo.Security.System.UI")]
+[assembly: AssemblyTitle("ApolloSecuritySystem")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Apollo.Security.System.UI")]
+[assembly: AssemblyProduct("ApolloSecuritySystem")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8052ab1c-2d59-4e3a-9802-1c915fd660d0")]
+[assembly: Guid("9da59596-6e0a-4d57-a87b-cab8b3e3a88a")]
 
 // Version information for an assembly consists of the following four values:
 //

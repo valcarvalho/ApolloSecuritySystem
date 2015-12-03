@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Apollo.Security.System.UI
+namespace ApolloSecuritySystem
 {
     static class Program
     {
@@ -15,7 +15,7 @@ namespace Apollo.Security.System.UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Login());
         }
     }
 }
